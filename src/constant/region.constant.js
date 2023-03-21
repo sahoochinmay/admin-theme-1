@@ -1,0 +1,4 @@
+export const REGION_START = 'REGION_START'
+export const REGION_END = 'REGION_END'
+export const FETCH_REGION= 'FETCH_REGION'
+export const RELOAD_REGION = 'RELOAD_REGION'
